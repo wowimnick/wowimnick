@@ -38,7 +38,7 @@
 
 <p align="center"> 
   <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/wowimnick/count.svg" />
+  <img src="https://profile-counter.glitch.me/durgeshsamariya/count.svg" />
   </br>
       <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
 </p>
