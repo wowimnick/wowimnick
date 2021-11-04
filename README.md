@@ -1,4 +1,5 @@
-## Hi there, I'm Nick! [github] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi there, I'm Nick! [github] <img src="https://github.com/wowimnick/wowimnick/blob/main/Vanilla-1s-289px.gif" width="30px"></h2>
+https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif
 
 ### 👨🏻‍💻 About Me
 
