@@ -6,9 +6,8 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 - 📈 I'm a student and an AI enthusiast!
-- 💻 I am a 3rd year computer science undergrad at Western Governors University.
-- 🔭 Currently pursuing a course on coursera Machine Learning with Python!
-- 🌱 I’m currently learning to learn.
+- 💻 I am a senior computer science undergrad at Western Governors University.
+- 🔭 Currently pursuing a course on Udemy on Machine Learning with Python!
 - 🥅 Python libraries are cool, i like playing with TensorFlow and PyTorch.
 - ⚡ Learning something new everyday keps my dopamine levels high.
 
