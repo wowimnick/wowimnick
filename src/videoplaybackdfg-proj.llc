@@ -1,0 +1,10 @@
+{
+  version: 1,
+  mediaFileName: 'videoplaybackdfg.webm',
+  cutSegments: [
+    {
+      end: 27.97188456632653,
+      name: '',
+    },
+  ],
+}
